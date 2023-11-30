@@ -1,4 +1,14 @@
 Day 11 Python Project Course by Angela Wu : Black Jack Game
+
+For this project at first, i've tried to make all by my own despite being a newbie, unfortunaly it's doesn't work but I've understand my mistakes, i was complexicating too much my code like for example my calcul function takes 2 input instead of one bc i was trying to make a function who calcul the hand and compare it 
+
+After, i have used Angela hint, i succeed to code all by myself except the last one the idea to put the game inside a function i would never have it.
+
+If you have any comments or advice fell free to tell me thanks you.
+
+Thanks to Angela Wu for her course, it's great
+
+
 ############### Blackjack Project #####################
 
 #Difficulty Normal 😎: Use all Hints below to complete the project.
